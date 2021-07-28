@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  color: aliceblue;
+  
+}
+.container-all {
+  width: 100%;
+  margin: auto;
+  background-color: rgb(17, 17, 17);
+  
+}
+.container-all img {
+width: 40%;
+}
+
+body{
+  background-color: black;
+}
+.container-all{
+  display: flex;
+  align-items: center;
+
+}
+p {
+  width: 60%;
+  padding-left: 100px;
+}
+h3 {
+  padding-left: 100px;
+}
